@@ -83,13 +83,14 @@ body {
 
 .sobre h2 {
     padding: 20px 0;
-    margin-top: 50px;
+    margin-top: -90px;
     font-family: "Bona Nova SC", serif;
 }
 
 .sobre p {
     padding: 5px 0;
-    margin-top: 20px;
+    margin-top: 5px;
+    margin-bottom: 50px;
     font-family: "Bona Nova SC", serif;
     font-size: large;
 }
