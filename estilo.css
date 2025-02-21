@@ -76,21 +76,19 @@ body {
 
 .sobre {
     text-align: center;
-    height: 300px;
-    margin-top: 90px;
-    margin-bottom: 90px;
+    height: 200px;
 }
 
 .sobre h2 {
     padding: 20px 0;
-    margin-top: -90px;
+    margin-top: 10px;
     font-family: "Bona Nova SC", serif;
 }
 
 .sobre p {
     padding: 5px 0;
     margin-top: 5px;
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-family: "Bona Nova SC", serif;
     font-size: large;
 }
@@ -191,5 +189,26 @@ body {
 
     .contato p {
         display: none;
+    }
+
+    .sobre {
+        text-align: center;
+        height: 300px;
+        margin-top: 90px;
+        margin-bottom: 90px;
+    }
+    
+    .sobre h2 {
+        padding: 20px 0;
+        margin-top: -90px;
+        font-family: "Bona Nova SC", serif;
+    }
+    
+    .sobre p {
+        padding: 5px 0;
+        margin-top: 5px;
+        margin-bottom: 30px;
+        font-family: "Bona Nova SC", serif;
+        font-size: large;
     }
 }
