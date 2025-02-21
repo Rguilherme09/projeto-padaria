@@ -19,7 +19,7 @@ body {
     justify-content: space-between;
     padding: 5px;
     width: 100%;
-    background-color: red;
+    background-color: #FF0000;
 }
 
 /*      LOGO DO PROJETO     */
@@ -76,6 +76,7 @@ body {
     text-align: center;
     height: 300px;
     background-color: #fff;
+    margin: 50px;
 }
 
 .sobre h2 {
@@ -101,7 +102,7 @@ body {
     gap: 30px;
     padding-top: 70px;
     padding-bottom: 70px;
-    background-color: red;
+    background-color: #FF0000;
     flex-wrap: wrap;
 }
 
@@ -135,7 +136,7 @@ body {
 
 /*      RODAPÉ DO PROJETO       */
 .rodape {
-    background-color: red;
+    background-color: #FF0000;
     padding: 10px 0;
     
     text-align: center;
